@@ -12,3 +12,11 @@
   Responsive for all devices, built using HTML, CSS, and JavaScript.
 
   <a href="https://josuefischeroficial.github.io/responsive-portfolio-website/"><strong>➥ Live Demo</strong></a>
+
+</div>
+
+<br />
+
+### Demo Screenshot
+
+![Portfolio Desktop Demo](./assets/img/josuefischer-website.png "Desktop Demo")
