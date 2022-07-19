@@ -1,9 +1,5 @@
-# Josue Fischer® - All Rights Reserved
-🍭 Responsive portfolio website - luxury edition - ready to deploy.
-
-✨ You are free to edit and use it.
-
-❤️ ¡Don´t forget to follow me an like this!
-
-## Versión Estable
-> Josue Fischer® - Versión 1.2
+<div align="center">
+  
+  ![GitHub repo size](https://img.shields.io/github/repo-size/josuefischeroficial/responsive-portfolio-website)
+  ![GitHub stars](https://img.shields.io/github/stars/josuefischeroficial/responsive-portfolio-website?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/josuefischeroficial/responsive-portfolio-website?style=social)
