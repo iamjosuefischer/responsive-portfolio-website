@@ -1,5 +1,5 @@
 # Josue Fischer® - All Rights Reserved
-🍭 Responsive website portfolio - ghotic edition - ready to deploy.
+🍭 Responsive portfolio website - luxury edition - ready to deploy.
 
 ✨ You are free to edit and use it.
 
