@@ -5,7 +5,6 @@
   ![GitHub forks](https://img.shields.io/github/forks/josuefischeroficial/responsive-portfolio-website?style=social)
   
   <br />
-  <br />
 
   <h2 align="center">Josue Fischer - Responsive Portfolio Website</h2>
 
@@ -14,8 +13,6 @@
   <a href="https://josuefischeroficial.github.io/responsive-portfolio-website/"><strong>➥ Live Demo</strong></a>
 
 </div>
-
-<br />
 
 ### Demo Screenshot
 
