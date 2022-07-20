@@ -14,6 +14,8 @@
 
 </div>
 
+<br />
+  
 ### Demo Screenshot
 
 ![Portfolio Desktop Demo](./assets/img/josuefischer-website.png "Desktop Demo")
