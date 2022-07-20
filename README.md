@@ -48,4 +48,4 @@ If you want to contact with me you can reach me at [E-mail](mailto:josuefischerc
 
 ### License
 
-This project is contains an **MIT License.**
+This project contains an **MIT License.**
