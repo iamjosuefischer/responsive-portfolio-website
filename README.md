@@ -1,8 +1,8 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/josuefischeroficial/responsive-portfolio-website)
-  ![GitHub stars](https://img.shields.io/github/stars/josuefischeroficial/responsive-portfolio-website?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/josuefischeroficial/responsive-portfolio-website?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/iamjosuefischer/responsive-portfolio-website)
+  ![GitHub stars](https://img.shields.io/github/stars/iamjosuefischer/responsive-portfolio-website?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/iamjosuefischer/responsive-portfolio-website?style=social)
   
   <br />
 
@@ -10,7 +10,7 @@
 
   Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://josuefischeroficial.github.io/responsive-portfolio-website/"><strong>➥ Live Demo</strong></a>
+  <a href="https://iamjosuefischer.github.io/responsive-portfolio-website/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -33,13 +33,13 @@ To run **Josue Fischer - Responsive Portfolio Website** locally, run this comman
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/josuefischeroficial/responsive-portfolio-website.git
+sudo git clone https://github.com/iamjosuefischer/responsive-portfolio-website.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/josuefischeroficial/responsive-portfolio-website.git
+git clone https://github.com/iamjosuefischer/responsive-portfolio-website.git
 ```
 
 ### Contact
